@@ -1,10 +1,10 @@
-
+import Hero from "./sections/Hero"
 const App =()=>{
     return(
         <main>
-            <div>
-                <h1>welcome</h1>
-            </div>
+            <>
+            <Hero/>
+            </>
         </main>
     )
 }
